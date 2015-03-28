@@ -1,0 +1,19 @@
+
+Files: ListClient.java List.java Lex.java Makefile README
+
+
+== ListClient.java (unaltered) ==
+This file is used as a test client for the List ADT.
+
+== List.java ==
+A List ADT that utilizes a doubly linked list structure.
+
+== Lex.java ==
+This file uses two line arguments that take the input file name and the utput file name.
+It uses the List ADT to sort in lexicographic order, and prints the sorted list from the input file to the output file.
+
+== Makefile == 
+Creates an executable jar file and used for compiling the programs.
+
+== README ==
+This file lists all files submitted with their descriptions of their roles in this project.
